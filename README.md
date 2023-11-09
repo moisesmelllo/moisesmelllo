@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-<img src="./snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
